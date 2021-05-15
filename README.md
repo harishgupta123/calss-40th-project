@@ -1,2 +1,3 @@
-# calss-40th-project
-hmmm error
+# c-39
+## Project-39 FRUIT CATCHER 1
+# By Lee
